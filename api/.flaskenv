@@ -1,0 +1,2 @@
+FLASK_APP=sample_file_time.py
+FLASK_ENV=development
